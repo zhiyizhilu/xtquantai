@@ -4,6 +4,7 @@ xtquantai 是一个基于 Model Context Protocol (MCP) 的服务器，它将迅�
 
 [![Python Version](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![smithery badge](https://smithery.ai/badge/@zhiyizhilu/xtquantai)](https://smithery.ai/server/@zhiyizhilu/xtquantai)
 
 ## 功能特点
 
@@ -28,6 +29,18 @@ XTQuantAI 提供以下核心功能(陆续更新中，欢迎大家提交新创意
 ⚠️ 注意
 1. QMT 生态系统目前仅支持 Windows，因此以下均在 Windows 环境实现
 2. Windows 环境目前在实现 MCP 过程中有不少细节，需要注意
+
+### 安装
+
+### 安装
+
+### Installing via Smithery
+
+To install xtquantai for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@zhiyizhilu/xtquantai):
+
+```bash
+npx -y @smithery/cli install @zhiyizhilu/xtquantai --client claude
+```
 
 ### 前提条件
 - Python 3.11 或更高版本
